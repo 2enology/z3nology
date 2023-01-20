@@ -13,7 +13,7 @@ responsibility. Credibility and Development completion is a key component of my 
 <br />
 
 
-## 🛠  Technologies and tools
+## 🛠 Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Web3-282C34?logo=web3&logoColor=ddd" alt="Web3 logo" title="Web3" height="20" /></span>
