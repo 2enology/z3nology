@@ -1,9 +1,6 @@
 <h2 align = "center">
-✨ Welcom my side ✨
+✨ Welcome my side ✨
 </h2>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
-
 🥇 With 7 years of experience developing cutting-edge software solutions for corporate productivity. 
 I am an experienced, forwardthinking developer. My Passion is building fully responsive, fast,
 secure, user-friendly websites, website interfaces, and overall beautiful applications. 
