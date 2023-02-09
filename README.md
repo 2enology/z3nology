@@ -2,7 +2,7 @@
 ✨ Welcome my side ✨
 </h2>
 🥇 With 7 years of experience developing cutting-edge software solutions for corporate productivity. 
-I am an experienced, forwardthinking developer. My Passion is building fully responsive, fast,
+I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
 secure, user-friendly websites, website interfaces, and overall beautiful applications. 
 Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
 web3.js, Ethers.js, solidity on EVM.
