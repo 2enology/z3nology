@@ -1,6 +1,7 @@
  <a href="https://github.com/zeno3618">
       <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
-    </a>
+ </a>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=zeno3618&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <h2 align = "center">
 ✨ Welcome my side ✨
 </h2>
