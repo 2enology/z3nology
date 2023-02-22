@@ -1,5 +1,5 @@
  <a href="https://github.com/zeno3618">
-      <img src="https://img.shields.io/github/followers/zeno3618?color=yellow&label=GitHub&logo=GitHub&style=for-the-badge"/>
+      <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
     </a>
 <h2 align = "center">
 ✨ Welcome my side ✨
