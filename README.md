@@ -2,20 +2,20 @@
       <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
 <h2 align = "center">
-👉 Welcome my side
+ Welcome my side
 </h2>
-🥇 With 7 years of experience developing cutting-edge software solutions for corporate productivity. 
+With 7 years of experience developing cutting-edge software solutions for corporate productivity. 
 I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
 secure, user-friendly websites, website interfaces, and overall beautiful applications. 
 Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
 web3.js, Ethers.js, solidity on EVM.
 I pride myself on delivering great results to every client on time, based on detail, quality, and
-responsibility. Credibility and Development completion is a key component of my perfection as a web developer.🥇
+responsibility. Credibility and Development completion is a key component of my perfection as a web developer.
 
 <br />
 
 
-## 🛠 Technologies and tools
+## Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Web3-282C34?logo=web3&logoColor=ddd" alt="Web3 logo" title="Web3" height="20" /></span>
