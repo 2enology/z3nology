@@ -70,6 +70,6 @@ responsibility. Credibility and Development completion is a key component of my 
 &nbsp;
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
-<br /><br />
+<br />
 
 
