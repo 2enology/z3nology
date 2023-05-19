@@ -1,9 +1,9 @@
  <a href="https://github.com/zeno3618">
       <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
- ![aboutusIMG](https://github.com/zeno3618/zeno3618/assets/29924624/d4b0e39e-8e97-4c46-b728-2974a25c3483)
+ <img src="https://www.sparklesnft.com/_next/image/?url=https%3A%2F%2Fsparklesnft.imgix.net%2Fipfs%2FQmZfzRDXZ4vUhExSRREuCqrPYJmxyuGtojqCcricJjFyqp&w=1920&q=100"/>
 <h2 align = "center">
-  WELCOME MY ZENO SPACE
+  WELCOME ZENO SPACE
 </h2>
 With 8 years of experience developing cutting-edge software solutions for corporate productivity. 
 I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
