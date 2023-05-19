@@ -1,10 +1,7 @@
  <a href="https://github.com/zeno3618">
       <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
- <img src="https://www.sparklesnft.com/_next/image/?url=https%3A%2F%2Fsparklesnft.imgix.net%2Fipfs%2FQmZfzRDXZ4vUhExSRREuCqrPYJmxyuGtojqCcricJjFyqp&w=1920&q=100"/>
-<h2 align = "center">
-  WELCOME ZENO SPACE
-</h2>
+
 With 8 years of experience developing cutting-edge software solutions for corporate productivity. 
 I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
 secure, user-friendly websites, website interfaces, and overall beautiful applications. 
@@ -14,7 +11,10 @@ I pride myself on delivering great results to every client on time, based on det
 responsibility. Credibility and Development completion is a key component of my perfection as a web developer.
 
 <br />
-
+<h2 align = "left">
+  CURRENT WORKING IN
+</h2>
+<img src="https://www.sparklesnft.com/_next/image/?url=https%3A%2F%2Fsparklesnft.imgix.net%2Fipfs%2FQmZfzRDXZ4vUhExSRREuCqrPYJmxyuGtojqCcricJjFyqp&w=1920&q=100"/>
 
 ## Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
