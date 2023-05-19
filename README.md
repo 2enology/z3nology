@@ -1,8 +1,9 @@
  <a href="https://github.com/zeno3618">
       <img src="https://img.shields.io/github/followers/zeno3618?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
+ ![aboutusIMG](https://github.com/zeno3618/zeno3618/assets/29924624/d4b0e39e-8e97-4c46-b728-2974a25c3483)
 <h2 align = "center">
-  WELCOME MY SPACE
+  WELCOME MY ZENO SPACE
 </h2>
 With 8 years of experience developing cutting-edge software solutions for corporate productivity. 
 I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
