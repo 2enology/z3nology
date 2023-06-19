@@ -12,7 +12,7 @@ web3.js, Ethers.js, solidity on EVM and Rust on Solana.
 I pride myself on delivering great results to every client on time, based on detail, quality, and
 responsibility. Credibility and Development completion is a key component of my perfection as a web developer.
 
-## - SKILLS
+## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=E34F26" alt="Rust logo" title="Rust" height="20" /></span>
