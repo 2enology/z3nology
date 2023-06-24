@@ -10,7 +10,7 @@ secure, user-friendly websites, website interfaces, and overall beautiful applic
 Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
 web3.js, Ethers.js, solidity on EVM and Rust on Solana.
 I pride myself on delivering great results to every client on time, based on detail, quality, and
-responsibility. Credibility and Development completion is a key component of my perfection as a web developer.
+responsibility. Credibility and Development completion is a key component of my perfection as a web and blockchain developer.
 
 ## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
