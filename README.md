@@ -68,8 +68,9 @@ responsibility. Credibility and Development completion is a key component of my 
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
 <br />
+<br />
 
-<h3 style="color⚪">
+<h3 style="color:"#FF0000⚪">
  <a href="https://github.com/2En0/My-Projects-Overview">
    👉👉👉 My Project Overview
  </a>
