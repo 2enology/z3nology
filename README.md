@@ -4,13 +4,7 @@
 <h1 align = "center">
   WELCOME MY WORKSPACE
 </h1>
-With 8 years of experience developing cutting-edge software solutions for corporate productivity. 
-I am an experienced, forward thinking developer. My Passion is building fully responsive, fast,
-secure, user-friendly websites, website interfaces, and overall beautiful applications. 
-Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
-web3.js, Ethers.js, solidity on EVM and Rust on Solana.
-I pride myself on delivering great results to every client on time, based on detail, quality, and
-responsibility. Credibility and Development completion is a key component of my perfection as a web and blockchain developer.
+Highly experienced and forward-thinking web and blockchain developer with 8 years of expertise in developing cutting-edge software solutions for corporate productivity. Passionate about building fully responsive, fast, secure, and user-friendly websites and applications. Proficient in implementing attractive and intuitive front-end projects that interact with blockchain using web3.js, Ethers.js, Solidity on EVM, and Rust on Solana. Committed to delivering exceptional results to clients with attention to detail, quality, and timely completion. A credible and dedicated professional in web and blockchain development.
 
 ## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
