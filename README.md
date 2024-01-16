@@ -65,6 +65,6 @@ Proficient in web3.js, Ethers.js, Solidity, and Rust || Committed to delivering 
 <br />
 <h3 style="color:"#FF0000⚪" align = "center">
  <a href="https://github.com/2En0/My-Projects-Overview" style="color:"#FF0000⚪">
-   👉👉👉 My Project Overview 👈👈👈
+   ⚒️ My Project Overview 🛠️
  </a>
 </h3>
