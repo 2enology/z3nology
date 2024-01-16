@@ -2,9 +2,10 @@
       <img src="https://img.shields.io/github/followers/tardishero?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
 <h1 align = "center">
-  WELCOME MY WORKSPACE
+  👨‍💻 Web & Blockchain Developer
 </h1>
-Highly experienced and forward-thinking web and blockchain developer with 8 years of expertise in developing cutting-edge software solutions for corporate productivity. Passionate about building fully responsive, fast, secure, and user-friendly websites and applications. Proficient in implementing attractive and intuitive front-end projects that interact with blockchain using web3.js, Ethers.js, Solidity on EVM, and Rust on Solana. Committed to delivering exceptional results to clients with attention to detail, quality, and timely completion. A credible and dedicated professional in web and blockchain development.
+8 years of expertise in cutting-edge software solutions || Passionate about building responsive, fast, and secure websites
+Proficient in web3.js, Ethers.js, Solidity, and Rust || Committed to delivering exceptional results with attention to detail
 
 ## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
