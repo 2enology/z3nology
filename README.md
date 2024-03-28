@@ -30,8 +30,6 @@ I am a seasoned web3 full-stack engineer, solidity and solana developer that is 
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=111111" alt="Angular logo" title="Angular" height="20" />
-&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
@@ -47,8 +45,6 @@ I am a seasoned web3 full-stack engineer, solidity and solana developer that is 
 <img src="https://img.shields.io/badge/Postgresql-282C34?logo=Postgresql&logoColor=41B883" alt="Postgresql logo" title="Postgresql" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E" alt="Mysql logo" title="Mysql" height="20" />
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=41B883" alt="PHP logo" title="PHP" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="git" height="20" />
 &nbsp;
