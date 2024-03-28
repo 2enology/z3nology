@@ -1,10 +1,6 @@
  <a href="https://github.com/zeno-degen">
       <img src="https://img.shields.io/github/followers/zeno-degen?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeno-degen&style=for-the-badge&label=Profile+views&color=blue" alt="Profile Views">
-</div>
-
 <h1 align = "center">
    Full Stack & Blockchain Developer
 </h1>
