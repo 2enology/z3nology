@@ -1,9 +1,7 @@
  <a href="https://github.com/zeno-degen">
       <img src="https://img.shields.io/github/followers/zeno-degen?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
  </a>
-<h1 align = "center">
-   Full Stack & Blockchain Developer
-</h1>
+
 8 years of expertise in cutting-edge software solutions || Passionate about building responsive, fast, and secure websites
 Proficient in web3.js, Ethers.js, Solidity, and Rust || Committed to delivering exceptional results with attention to detail
 
